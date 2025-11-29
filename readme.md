@@ -59,7 +59,7 @@ POST   /api/messaging/send         - Send message
 **DevOps:** Docker, Nginx
 
 ## Project Snapshots
-**Landing Page**
+**Login Page**
 <img width="1919" height="940" alt="image" src="https://github.com/user-attachments/assets/1c6dcd53-11fc-4ad8-8ad9-ce7dc1955378" />
 
 **Student Dashboard**
